@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/charfinders/node#readme",
   "devDependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "^2.3.4",
+    "should": "^8.0.2"
   }
 }
